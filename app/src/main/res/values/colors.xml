@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorKeyboardBlue">#7DAFFF</color>
+    <color name="colorMainBlue">#7CAFFF</color>
+    <color name="colorKeyboardGray">#CCCCCC</color>
+    <color name="colorCodeGray">#8B99AE</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorKeyboardBg">#CCD0D7</color>
+    <color name="colorFirstSecond">#D1D1DA</color>
+    <color name="colorTransparent">@android:color/transparent</color>
+</resources>
