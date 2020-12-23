@@ -13,8 +13,8 @@ class MainActivity : AppCompatActivity(), LicensePlateView.InputListener {
         activity_lpv.setInputListener(MainActivity@ this)
 
         activity_lpv.setKeyboardContainerLayout(main_rl_container)
-//        activity_lpv.showLastView()
-        activity_lpv.hideLastView()
+        activity_lpv.showLastView()
+//        activity_lpv.hideLastView()
         activity_lpv.onSetTextColor(R.color.colorAccent)
     }
 
